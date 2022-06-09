@@ -2,4 +2,4 @@
 ## ProjectExample     
 
 Final Project Example of Masa QA Course     
-product for testing:  idemo.bspb.ru   
+product for testing:    https://idemo.bspb.ru/
