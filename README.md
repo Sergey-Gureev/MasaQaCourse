@@ -1,1 +1,1 @@
-# MasaQaCourse
+# MasaQaCourse ProjectExample
